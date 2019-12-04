@@ -1,17 +1,17 @@
 [
     {
-        "title":"Developer - Lorem ipsum Company",
+        "title":"Sr, Android developer - Smartdata enterprises pvt Ltd.",
         "year":"Feb 2018 — Present",
-        "role" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        "role" : "Responsible for developing app from scratch to the deployment of final product to app store. Part of client calls and also gathring requirements of application"
     },
     {
-        "title":"Developer - Lorem ipsum Company",
+        "title":"Android developer - Anand IT Solution",
         "year":"May 2017 — Feb 2018",
-        "role":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "role": "Responsible for developing app from scratch to the deployment of final product to app store."
     },
     {
-        "title":"Developer - Lorem ipsum Company",
+        "title":"Android developer - Bloom consulting services pvt. Ltd.",
         "year":"July 2015 — Dec 2016",
-        "role": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "role": "Responsible for developing app from scratch to the deployment of final product to app store."
     }
   ]

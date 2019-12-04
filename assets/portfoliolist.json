@@ -1,34 +1,47 @@
 [
-        {"name":"Lorem Ipsum",
+        {"name":"Mobile App",
         "sublist":[
-            {"title":"Lorem Ipsum","more":true, "src":"mobile1_1.png",
+            {"title":"AIZ","more":true, "src":"aiz_main.png",
             "subimg":[
-            {"src":"mobile1_2.png"},
-            {"src":"mobile1_3.png"}
+            {"src":"aiz_1.png"},
+            {"src":"aiz_2.png"},
+            {"src":"aiz_3.png"},
+            {"src":"aiz_4.png"},
+            {"src":"aiz_5.png"}
             ]},
-            {"title":"Lorem Ipsum","more":true, "src":"mobile2_1.png",
+            {"title":"BM English","more":true, "src":"bm_main.png",
             "subimg":[
-            {"src":"mobile2_2.jpg"},
-            {"src":"mobile2_3.jpg"}
+            {"src":"bm_1.png"},
+            {"src":"bm_2.png"},
+            {"src":"bm_3.png"},
+            {"src":"bm_4.png"},
+            {"src":"bm_5.png"},
+            {"src":"bm_6.png"}
             ]},
-            {"title":"Lorem Ipsum","more":true, "src":"mobile3_1.png",
+            {"title":"FunInMotion","more":true, "src":"fun_main.png",
             "subimg":[
-            {"src":"mobile3_2.png"},
-            {"src":"mobile3_3.png"}
+            {"src":"fun_1.png"},
+            {"src":"fun_2.png"},
+            {"src":"fun_3.png"},
+            {"src":"fun_4.png"}
+            ]},
+            {"title":"Sant Madhusudan","more":true, "src":"sant_main.png",
+            "subimg":[
+            {"src":"sant_1.png"},
+            {"src":"sant_2.png"},
+            {"src":"sant_3.png"},
+            {"src":"sant_4.png"},
+            {"src":"sant_5.png"},
+            {"src":"sant_6.png"}              
+            ]},
+            {"title":"VenMars","more":true, "src":"ven_main.png",
+            "subimg":[
+            {"src":"ven_1.png"},
+            {"src":"ven_2.png"},
+            {"src":"ven_3.png"},
+            {"src":"ven_4.png"},
+            {"src":"ven_5.png"}
             ]}
-            ]
-        },
-        {"name":"Lorem Ipsum",
-        "sublist":[
-            {"title":"Lorem Ipsum","more":false, "src":"web1.jpg"},
-            {"title":"Lorem Ipsum","more":false, "src":"web2.jpg"},
-            {"title":"Lorem Ipsum","more":false, "src":"web3.jpg"}
-            ]
-        },
-        {"name":"Lorem Ipsum",
-        "sublist":[
-            {"title":"Lorem Ipsum","more":false, "src":"mockup1.png"},
-            {"title":"Lorem Ipsum","more":false, "src":"mockup2.png"}
-            ]
-        }
+    ]
+    }
 ]

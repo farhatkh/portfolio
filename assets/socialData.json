@@ -1,9 +1,7 @@
 [
-     {"info":"position", "title":"Sr. Lorem ipsum"},
-     {"info":"area", "title":"Lorem ipsum, India"},
-     {"info":"email", "title":"Lorem ipsum@gmail.com"},
-     {"info" : "linkedin", "title": "http://linkedin.com"},
-     {"info": "github", "title":"https://github.com"},
-     {"info":"stackoverflow","title": "https://stackoverflow.com"}
+     {"info":"position", "title":"Sr. Software Engineer"},
+     {"info":"area", "title":"Nagpur, India"},
+     {"info":"email", "title":"farhatkh12@gmail.com"},
+     {"info":"no", "title":"9373780352"}
 ]
 
