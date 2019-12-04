@@ -1,15 +1,15 @@
-[
-    {
-    "userName": "Mark",
+{
+    "userName": "Farhat Khan",
     "userCopyrightYear" :"2019",
-    "sectionShowHide": [
-        {"userImage" :true},
-        {"userSkill" :true},
-        {"userExperience" :true},
-        {"userShowcase" :true},
-        {"userEducation" :true},       
-        {"userCopyright" :true}
-        ]
-    }
-
-]
+    "showUserImageandName" :true,
+    "showUserSkill" :true,
+    "showUserExperience" :true,
+    "showUserShowcase" :true,
+    "showUserEducation" :true,       
+    "showUserCopyright" :true,
+    "showTitle1": "Skills",
+    "showTitle2": "Work Experience",
+    "showTitle3": "Portfolio",
+    "showTitle4": "Education",
+    "connect": "https://github.com/sumedha-prithyani"
+}
