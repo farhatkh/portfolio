@@ -2,6 +2,8 @@
      {"info":"position", "title":"Sr. Software Engineer"},
      {"info":"area", "title":"Nagpur, India"},
      {"info":"email", "title":"farhatkh12@gmail.com"},
-     {"info":"no", "title":"9373780352"}
+     {"info" : "linkedin", "title": "http://linkedin.com"},
+     {"info": "github", "title":"https://github.com"},
+     {"info":"stackoverflow","title": "https://stackoverflow.com"}
 ]
 
